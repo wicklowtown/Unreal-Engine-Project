@@ -10,3 +10,5 @@ PDF guide: https://docs.google.com/forms/d/e/1FAIpQLSfA7tu2N8FLhVm1xw0wULBO2b7Bc
 Help understanding Blueprints: https://www.youtube.com/watch?v=aw-GMag53h0
 
 Help attempting to get Unreal to run better on Mac: https://www.youtube.com/watch?v=JonaJqlHjvM
+
+Interactive treasure chest, tutorial - https://www.youtube.com/watch?v=mZCP7xexdtw
