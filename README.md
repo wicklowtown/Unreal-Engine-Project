@@ -1,5 +1,10 @@
 # X-Island - An Unreal-Engine-Project
+
 A test interactive 3D environment, made in Unreal Engine 5 for CA2 of Software Engineering.
+
+Link to any resources, builds or files I could not upload to Github:
+
+https://studentdkit-my.sharepoint.com/:f:/g/personal/d00191092_student_dkit_ie/EmYcR_K_dhJIkilSFk2jrokB_ig3Ah5TsU6tfVGJKHsICA?e=V26iFO
 
 Links to all resources used, outside of college lectures - 
 
