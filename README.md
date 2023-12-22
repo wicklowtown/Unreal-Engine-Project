@@ -25,3 +25,5 @@ Palm tree models: https://smartpoly.gumroad.com/l/tropicalislandtutorial
 Music loop tutorial: https://www.youtube.com/watch?v=1JelVc00qFQ
 
 Music used: https://www.youtube.com/watch?v=tH4aQ-UxGCQ&t=65s
+
+Adding a timer to the level tutorial: https://www.youtube.com/watch?v=xtLrLaWBaiU
