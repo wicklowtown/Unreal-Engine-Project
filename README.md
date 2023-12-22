@@ -1,4 +1,4 @@
-#Island- Unreal-Engine-Project
+# Little Island - An Unreal-Engine-Project
 A test interactive 3D environment, made in Unreal Engine 5 for CA2 of Software Engineering.
 
 Links to all resources used, outside of college lectures - 
