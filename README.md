@@ -13,6 +13,8 @@ Help attempting to get Unreal to run better on Mac: https://www.youtube.com/watc
 
 Interactive treasure chest, tutorial - https://www.youtube.com/watch?v=mZCP7xexdtw
 
+Treasure Chest model used - https://sketchfab.com/3d-models/treasure-chest-b124919b7bc3470c82daeef72823f941
+
 Palm tree models: https://smartpoly.gumroad.com/l/tropicalislandtutorial
 
 Music loop tutorial: https://www.youtube.com/watch?v=1JelVc00qFQ
